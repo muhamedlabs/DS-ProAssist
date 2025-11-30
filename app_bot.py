@@ -64,7 +64,7 @@ if __name__ == "__main__":
     setup_profile_socials_commands(bot)
     setup_voice_tracker(bot)
     setup_rewards_commands(bot)
-    setup_message_rewards(bot)
+    #setup_message_rewards(bot)
     setup_currency_commands(bot)
     setup_shop_status(bot)
     setup_managemen(bot)
